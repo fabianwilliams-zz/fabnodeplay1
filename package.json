@@ -1,0 +1,23 @@
+{
+  "name": "fabnodeplay1",
+  "version": "1.0.0",
+  "description": "playing with node js on azure and using express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabianwilliams/fabnodeplay1.git"
+  },
+  "author": "fabian williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabianwilliams/fabnodeplay1/issues"
+  },
+  "homepage": "https://github.com/fabianwilliams/fabnodeplay1#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
